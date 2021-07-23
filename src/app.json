@@ -1,0 +1,111 @@
+{
+  "pages": [
+    "pages/index/main", 
+    "pages/introduce/main",
+    "pages/bargainDetail/main",
+    "pages/bargainList/main",
+    "pages/goods/main",
+    "pages/groupList/main",
+    "pages/payment/main",
+    "pages/orderlist/main",
+    "pages/groupProductDetail/main",
+    "pages/bargainProductList/main",
+    "pages/bargainProductDetail/main",
+    "pages/inviteCode/main",
+    "pages/myVouchers/main",
+    "pages/prelogin/main",
+    "pages/bargain/main",
+    "pages/shopInfo/main",
+    "pages/seckill/main",
+    "pages/dayGoods/main",
+    "pages/areaZone/main",
+    "pages/faddish/main",
+    "pages/vouchers/main",
+    "pages/newPeople/main",
+    "pages/sourceArea/main",
+    "pages/walletDetails/main",
+    "pages/myBankCard/main",
+    "pages/addBankCard/main",
+    "pages/manager/main",
+    "pages/managerWallet/main",
+    "pages/memberCenter/main",
+    "pages/personal/main",
+    "pages/myCoupons/main",
+    "pages/seckillDetail/main",
+    "pages/invited/main",
+    "pages/itemList/main",
+    "pages/cart/main",
+    "pages/orderDetail/main",
+    "pages/selectAddress/main",
+    "pages/login/main",
+    "pages/createOrder/main",
+    "pages/addresslist/main",
+    "pages/address/main",
+    "pages/goodsDetail/main",
+    "pages/articleDetail/main",
+    "pages/counter/main",
+    "pages/logs/main",
+    "pages/goodsList/main",
+    "pages/content/main",
+    "pages/userLogin/main",
+    "pages/send/main",
+    "pages/regist/main",
+    "pages/forgetPassword/main",
+    "pages/logistic/main",
+    "pages/footprint/main",
+    "pages/myCollection/main",
+    "pages/myEvaluate/main",
+    "pages/evaluate/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "晓百合智慧商城",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh":true,
+    "onReachBottomDistance":50
+
+  },
+
+  "plugins": {
+    "live-player-plugin": {
+      "version": "1.1.1",
+      "provider": "wx2b03c6e691cd7370"
+    }
+  },
+  "tabBar": {
+    "color": "#999",
+    "backgroundColor": "#fff",
+    "selectedColor": "#333",
+    "borderStyle": "white",
+    "list": [{
+      "text": "首页",
+      "pagePath": "pages/index/main",
+      "iconPath": "static/tabs/home.png",
+      "selectedIconPath": "static/tabs/home-active.png"
+    }, {
+      "text": "分类",
+      "pagePath": "pages/goods/main",
+      "iconPath": "static/tabs/goods.png",
+      "selectedIconPath": "static/tabs/goods-active.png"
+    },{
+      "text": "直播",
+      "pagePath": "pages/articleDetail/main",
+      "iconPath": "static/tabs/message.png",
+      "selectedIconPath": "static/tabs/message-active.png"
+    },{
+      "text": "购物车",
+      "pagePath": "pages/cart/main",
+      "iconPath": "static/tabs/cart.png",
+      "selectedIconPath": "static/tabs/cart-active.png"
+    }, {
+      "text": "我的",
+      "pagePath": "pages/personal/main",
+      "iconPath": "static/tabs/personal.png",
+      "selectedIconPath": "static/tabs/personal-active.png"
+    }
+  ],
+  "position": "bottom"
+  }  
+}

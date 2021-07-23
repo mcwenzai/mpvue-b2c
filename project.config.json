@@ -1,0 +1,109 @@
+{
+   "description": "项目配置文件。",
+   "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "enhance": false,
+      "postcss": true,
+      "preloadBackgroundData": false,
+      "minified": true,
+      "newFeature": true,
+      "coverView": true,
+      "nodeModules": false,
+      "autoAudits": false,
+      "showShadowRootInWxmlPanel": true,
+      "scopeDataCheck": false,
+      "uglifyFileName": false,
+      "checkInvalidKey": true,
+      "checkSiteMap": true,
+      "uploadWithSourceMap": true,
+      "compileHotReLoad": false,
+      "useMultiFrameRuntime": true,
+      "useApiHook": true,
+      "useApiHostProcess": false,
+      "babelSetting": {
+         "ignore": [],
+         "disablePlugins": [],
+         "outputPath": ""
+      },
+      "enableEngineNative": false,
+      "bundle": false,
+      "useIsolateContext": true,
+      "useCompilerModule": false,
+      "userConfirmedUseCompilerModuleSwitch": false,
+      "userConfirmedBundleSwitch": false,
+      "packNpmManually": false,
+      "packNpmRelationList": [],
+      "minifyWXSS": true
+   },
+   "miniprogramRoot": "dist/wx/",
+   "compileType": "miniprogram",
+   "appid": "wx3fe71aea5a30b03c",
+   "projectname": "%E6%99%93%E7%99%BE%E5%90%88",
+   "simulatorType": "wechat",
+   "simulatorPluginLibVersion": {},
+   "libVersion": "2.13.1",
+   "condition": {
+      "search": {
+         "list": []
+      },
+      "conversation": {
+         "list": []
+      },
+      "plugin": {
+         "list": []
+      },
+      "game": {
+         "currentL": -1,
+         "list": []
+      },
+      "gamePlugin": {
+         "list": []
+      },
+      "miniprogram": {
+         "list": [
+            {
+               "id": -1,
+               "name": "pages/goods/main",
+               "pathName": "pages/goods/main",
+               "query": "",
+               "scene": null
+            },
+            {
+               "id": -1,
+               "name": "pages/cart/main",
+               "pathName": "pages/cart/main",
+               "query": "",
+               "scene": null
+            },
+            {
+               "id": -1,
+               "name": "pages/goods/main",
+               "pathName": "pages/orderlist/main",
+               "query": "",
+               "scene": null
+            },
+            {
+               "id": -1,
+               "name": "pages/orderlist/main",
+               "pathName": "pages/orderDetail/main",
+               "query": "",
+               "scene": null
+            },
+            {
+               "id": -1,
+               "name": "pages/orderDetail/main",
+               "pathName": "pages/orderlist/main",
+               "query": "",
+               "scene": null
+            },
+            {
+               "id": -1,
+               "name": "pages/index/main",
+               "pathName": "pages/index/main",
+               "scene": null
+            }
+         ]
+      }
+   }
+}

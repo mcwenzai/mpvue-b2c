@@ -1,0 +1,19 @@
+.bg-no{
+    background-color: transparent !important;
+    color: #fff;
+}
+.descp{
+	display: -webkit-box;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	word-wrap: break-word;
+	white-space: normal !important;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+}
+.position {
+	position: relative;
+}
+page {
+	background-color: #f8f8f8;
+}

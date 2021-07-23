@@ -1,0 +1,114 @@
+{
+  "id": "656294",
+  "name": "晓百合小程序",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6237075",
+      "name": "下",
+      "font_class": "tubiaozhizuo-",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4465210",
+      "name": "菱形",
+      "font_class": "icon",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "577388",
+      "name": "足迹",
+      "font_class": "zuji",
+      "unicode": "e767",
+      "unicode_decimal": 59239
+    },
+    {
+      "icon_id": "798129",
+      "name": "我的收藏",
+      "font_class": "wodeshoucang",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "1068814",
+      "name": "收货地址",
+      "font_class": "weibiaoti2fuzhi08",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "1301389",
+      "name": "邀请",
+      "font_class": "yaoqing",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "4251740",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "5192955",
+      "name": "优惠券",
+      "font_class": "youhuiquan",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "11372737",
+      "name": "优惠券",
+      "font_class": "youhuiquan1",
+      "unicode": "e8c0",
+      "unicode_decimal": 59584
+    },
+    {
+      "icon_id": "15494877",
+      "name": "评价 Leo",
+      "font_class": "pingjia-01",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "351742",
+      "name": "待发货",
+      "font_class": "daifahuo",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "1066766",
+      "name": "评价",
+      "font_class": "evaluate",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "12025983",
+      "name": "退货退款",
+      "font_class": "tuihuotuikuan",
+      "unicode": "e7af",
+      "unicode_decimal": 59311
+    },
+    {
+      "icon_id": "632980",
+      "name": "待收货",
+      "font_class": "daishouhuo",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "14112849",
+      "name": "待付款",
+      "font_class": "daifukuan",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    }
+  ]
+}
