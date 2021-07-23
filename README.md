@@ -1,4 +1,4 @@
-# shop
+# B2C商城小程序端for Mpvue project
 
 > A Mpvue project
 
