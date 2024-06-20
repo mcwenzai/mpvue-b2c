@@ -1,3 +1,5 @@
+联系QQ: 1002821824
+
 # B2C商城小程序端for Mpvue project
 
 > A Mpvue project
